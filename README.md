@@ -1,7 +1,7 @@
-#AirBnB clone - The console ( First Phase)
+# AirBnB clone - The console ( First Phase)
 
 ## Description:
-This Project was given to ALX Software Engineering Students (Cohotrt 9). It is the  first phase to create a basic clone of the AirBnB web app. In this first phase a basic console was created using the Cmd Python module, to manage the objects of the whole project, being able to implement the methods create, show, update, all, and destroy to the existing classes and subclasses.
+This Project was given to ALX Software Engineering Students (Cohort 9). It is the  first phase to create a basic clone of the AirBnB web app. In this first phase a basic console was created using the Cmd Python module, to manage the objects of the whole project, being able to implement the methods create, show, update, all, and destroy to the existing classes and subclasses.
 
 ## Environment:
 The console was developed in  Ubuntu 20.04 LTS using python3 (version 3.8.5). All the scripts are  pycodestyle (version 2.8.*) compliant.
