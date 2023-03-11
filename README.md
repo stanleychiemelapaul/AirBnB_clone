@@ -30,3 +30,12 @@ This repository constains the following files:
 |[test_state.py](./tests/test_models/test_state.py) | unittests for state |
 |[test_file_storage.py](./tests/test_models/test_engine/test_file_storage.py) | unittests for file_storage |
 |[test_console.py](./tests/test_console.py) | unittests for console |
+
+
+### Authors :fountain_pen:
+* Stanley Chiemela Paul  - @stanleychiemelapaul
+* Aralu Kaycee  - @aralukene
+
+
+
+
